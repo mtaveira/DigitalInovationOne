@@ -1,11 +1,11 @@
 # Digital Inovation One
  
- Digital Inovation One - course and bootcamps
+ Digital Inovation One - courses and bootcamps
 
  ## Bootcamps
 
-    Banco Carrefour Data Engineer
+Banco Carrefour Data Engineer
 
  ## Courses
 
-    Git and GitHub
+Git and GitHub
